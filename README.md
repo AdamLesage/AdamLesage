@@ -1,7 +1,6 @@
-<h1 align="center">Hello, welcome on my Github account !<h1>
-<p align="center" style="font-size: 18px;">I am a French student at Epitech with a passion for data and artificial intelligence in general</p>
-<p align="center" style="font-size: 16px;">I am currently looking for an internship in data science or machine learning</p>
-<p align="center" style="font-size: 16px;">You can contact me at <a href="mailto:adamles44@gmail.com">adamles44@gmail.com</a></p>
+<h1 align="center">Hello, welcome on my Github account !</h1>
+<p align="center" style="font-size: 16px;">I am a French student at Epitech with a passion for data and artificial intelligence in general</p>
+<p align="center" style="font-size: 16px;">I am currently looking for an internship in data science or machine learning<br>You can contact me at <a href="mailto:adamles44@gmail.com">adamles44@gmail.com</a></p>
 
 <h2 align="center">Here is a list of the languages and tools I master</h2>
 
