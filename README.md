@@ -47,5 +47,5 @@
 <h2 align="center" style="font-size: 16h2x;">My Github stats</p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamLesage&layout=donut-vertical&count_private=true"/></div>
 <!-- Note about private repositories -->
-<p align="center" style="font-size: 16px;">Note: The languages used in my private repositories are not taken into account in this graph (like Epitech repositories)</p>
+<p align="center" style="font-size: 14px;">Note: The languages used in my private repositories are not taken into account in this graph (like Epitech repositories)</p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdamLesage&show_icons=true&count_private=true&theme=dark"/></div>
