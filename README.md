@@ -58,3 +58,9 @@
 <!-- Note about private repositories -->
 <p align="center" style="font-size: 14px;">Note: The languages used in my private repositories are not taken into account in this graph (like Epitech repositories)</p>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdamLesage&show_icons=true&count_private=true&theme=merko"/></div>
+
+---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdamLesage&style=for-the-badge&color=green" alt=""/>
+</div>
