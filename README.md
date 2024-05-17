@@ -32,7 +32,7 @@
 
 ---
 
-<p align="center" style="font-size: 16h2x;">I master a some python libraries</p>
+<p align="center" style="font-size: 16h2x;">I also master a few python libraries</p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" height="60" />
