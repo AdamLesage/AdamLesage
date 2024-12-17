@@ -9,57 +9,50 @@
 ---
 
 <!-- Work experiences -->
-<p align="center" style="font-size: 24px; margin-bottom: 20px;">Work Experiences</p>
+<p align="center" style="font-size: 24px; margin-bottom: 20px; font-weight: bold;">Work Experiences</p>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Fly2Success Experience -->
-    <div style="
-        width: 300px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        padding: 20px;
-        text-align: center;
-        background-color: #494848;"
-    >
-        <img src="./assets/fly2success.png"
-             alt="F2S Logo"
-             style="
-                width: 100px;
-                height: 100px; /* Taille fixe */
-                object-fit: contain; /* Garde les proportions */
-                margin-bottom: 15px;"
-        >
-        <h3 style="font-size: 18px; margin-bottom: 10px; color: #ffffff;">Full stack developer Intern</h3>
-        <p style="font-size: 14px; color: #ffffff;">
-            Worked at <a href="https://fly2success.io/" target="_blank" style="color: #007BFF; text-decoration: none;">Fly2Success</a>
-        </p>
+<div align="center">
+    <div style="display: inline-block; margin: 10px;">
+        <!-- Fly2Success Experience -->
+        <div style="
+            width: 300px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            background-color: #494848;">
+            <img src="./assets/fly2success.png"
+                 alt="F2S Logo"
+                 style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 15px;">
+            <h3 style="font-size: 18px; margin-bottom: 10px; color: #ffffff;">Full stack developer Intern</h3>
+            <p style="font-size: 14px; color: #ffffff;">
+                Worked at <a href="https://fly2success.io/" target="_blank"
+                style="color: #007BFF; text-decoration: none;">Fly2Success</a>
+            </p>
+        </div>
     </div>
-    <!-- Butterfl.ai Experience -->
-    <div style="
-        width: 300px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        padding: 20px;
-        text-align: center;
-        background-color: #494848;"
-    >
-        <img src="./assets/butterfl-ai.png"
-             alt="Butterfl.ai Logo"
-             style="
-                width: 100px;
-                height: 100px; /* Taille fixe */
-                object-fit: contain; /* Garde les proportions */
-                margin-bottom: 15px;"
-        >
-        <h3 style="font-size: 18px; margin-bottom: 10px; color: #ffffff;">Full stack developer Intern</h3>
-        <p style="font-size: 14px; color: #ffffff;">
-            Worked at <a href="https://www.butterfl.ai/" target="_blank" style="color: #007BFF; text-decoration: none;">Butterfl.ai</a>
-        </p>
+    <div style="display: inline-block; margin: 10px;">
+        <!-- Butterfl.ai Experience -->
+        <div style="
+            width: 300px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            text-align: center;
+            background-color: #494848;">
+            <img src="./assets/butterfl-ai.png"
+                 alt="Butterfl.ai Logo"
+                 style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 15px;">
+            <h3 style="font-size: 18px; margin-bottom: 10px; color: #ffffff;">Full stack developer Intern</h3>
+            <p style="font-size: 14px; color: #ffffff;">
+                Worked at <a href="https://www.butterfl.ai/" target="_blank"
+                style="color: #007BFF; text-decoration: none;">Butterfl.ai</a>
+            </p>
+        </div>
     </div>
 </div>
-
 
 ---
 
