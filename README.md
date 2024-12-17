@@ -8,6 +8,61 @@
 
 ---
 
+<!-- Work experiences -->
+<p align="center" style="font-size: 24px; margin-bottom: 20px;">Work Experiences</p>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <!-- Fly2Success Experience -->
+    <div style="
+        width: 300px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        text-align: center;
+        background-color: #494848;"
+    >
+        <img src="./assets/fly2success.png"
+             alt="F2S Logo"
+             style="
+                width: 100px;
+                height: 100px; /* Taille fixe */
+                object-fit: contain; /* Garde les proportions */
+                margin-bottom: 15px;"
+        >
+        <h3 style="font-size: 18px; margin-bottom: 10px; color: #ffffff;">Full stack developer Intern</h3>
+        <p style="font-size: 14px; color: #ffffff;">
+            Worked at <a href="https://fly2success.io/" target="_blank" style="color: #007BFF; text-decoration: none;">Fly2Success</a>
+        </p>
+    </div>
+    <!-- Butterfl.ai Experience -->
+    <div style="
+        width: 300px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        text-align: center;
+        background-color: #494848;"
+    >
+        <img src="./assets/butterfl-ai.png"
+             alt="Butterfl.ai Logo"
+             style="
+                width: 100px;
+                height: 100px; /* Taille fixe */
+                object-fit: contain; /* Garde les proportions */
+                margin-bottom: 15px;"
+        >
+        <h3 style="font-size: 18px; margin-bottom: 10px; color: #ffffff;">Full stack developer Intern</h3>
+        <p style="font-size: 14px; color: #ffffff;">
+            Worked at <a href="https://www.butterfl.ai/" target="_blank" style="color: #007BFF; text-decoration: none;">Butterfl.ai</a>
+        </p>
+    </div>
+</div>
+
+
+---
+
 <!-- Icons of libraries and framefork I master -->
 <h2 align="center" style="font-size: 16h2x;">Differents languages and frameworks</p>
 <div align="center">
@@ -21,6 +76,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
     </div>
     <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="60" height="60" />
@@ -32,6 +90,7 @@
 
 ---
 
+<!-- Python lib -->
 <p align="center" style="font-size: 16h2x;">I also master a few python libraries</p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="60" height="60" />
@@ -41,15 +100,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="60" height="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="60 height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="60" height="60" />
 </div>
 
 ---
 
+<!-- Dev tools -->
 <p align="center" style="font-size: 16h2x;">I also use certain tools to make my life as a developer easier</p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" height="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" />
 </div>
